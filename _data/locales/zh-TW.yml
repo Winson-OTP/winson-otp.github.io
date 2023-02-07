@@ -42,7 +42,7 @@ copyright:
 meta: 本站由 :PLATFORM 生成，採用 :THEME 主題。
 
 not_found:
-  statment: 抱抱，我們使用了錯誤的URL，或者指向了不存在的內容。
+  statment: 抱歉，我們使用了錯誤的URL，或者指向了不存在的內容。
 
 notification:
   update_found: 發現新版本的內容。
