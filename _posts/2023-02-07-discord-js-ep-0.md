@@ -59,5 +59,3 @@ Discord.js的機器人即是使用Node.js編寫，因此我們要安裝Node.js
 
 ## 總結
 這篇教學就到這裡結束，準備好前置的配備後，下篇教學就要開始邁入機器人開發囉！
-
-###### tags: `Node.js` `Discord.js`
