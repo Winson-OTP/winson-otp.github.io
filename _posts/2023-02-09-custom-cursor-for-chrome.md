@@ -16,7 +16,9 @@ tags: [Chrome]
 首先，先進入套件的[安裝頁面](https://chrome.google.com/webstore/detail/custom-cursor-for-chrome/ogdlpmhglpejoiomcodnpjnfgcpmgale?hl=zh-TW)
 
 #### Custom Cursor for Chrome™ - 自定義光標
+
 ![](https://i.imgur.com/4Gra8QF.png)
+
 * 官方網站：https://custom-cursor.com/
 * Chrome 下載網址：https://chrome.google.com/webstore/detail/custom-cursor-for-chrome/ogdlpmhglpejoiomcodnpjnfgcpmgale?hl=zh-TW
 
@@ -46,19 +48,33 @@ tags: [Chrome]
 
 ![](https://i.imgur.com/hfRcWDc.png)
 
-接下來點開Chrome瀏覽器右上角的 ![](https://i.imgur.com/H0uxsdv.png)  找到剛剛下載的套件並點擊（點擊左側的名稱或圖標）
+接下來點開Chrome瀏覽器右上角的
+
+![](https://i.imgur.com/H0uxsdv.png)
+
+找到剛剛下載的套件並點擊（點擊左側的名稱或圖標）
 *NOTE: 也可以點擊圖釘的符號讓擴充套件釘選在瀏覽器右上角唷！*
+
 ![](https://i.imgur.com/KIZPxyH.png)
+
 可以從彈出區域中找到剛剛下載的鼠標唷！
 
 ![](https://i.imgur.com/Aj8Gu8g.png)
 
-若要使用請點擊要使用的鼠標，也可以通過右上角的 ![](https://i.imgur.com/MN3fFbx.png) 調整大小唷！
-而要設置成原本的鼠標請點擊 ![](https://i.imgur.com/boU8zkz.png)
+若要使用請點擊要使用的鼠標，也可以通過右上角的
+
+![](https://i.imgur.com/MN3fFbx.png)
+
+調整大小唷！
+而要設置成原本的鼠標請點擊
+
+![](https://i.imgur.com/boU8zkz.png)
 
 
 除此之外，也可以一次下載一個系列的鼠標，首先回到 [首頁](https://custom-cursor.com/en)，並選擇右上角的 `Collections`
+
 ![](https://i.imgur.com/g7dTc3O.png)
+
 同樣會看到許多系列，可以根據個人喜好下載
 
 ![](https://i.imgur.com/oC9b0sw.jpg)
