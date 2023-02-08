@@ -2,7 +2,7 @@
 title: 使用 Discord.js v14 開發全能Discord機器人 | Ep.2 官方範例操作
 author: winsonotp
 date: 2023-02-07 19:45:00 +0800
-categories: [教學]
+categories: [教學, 程式]
 tags: [Node.js, Discord.js]
 ---
 

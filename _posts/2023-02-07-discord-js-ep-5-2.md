@@ -2,7 +2,7 @@
 title: 使用 Discord.js v14 開發全能Discord機器人 | Ep.5.2 關於指令「info」－使用者資訊
 author: winsonotp
 date: 2023-02-07 19:55:00 +0800
-categories: [教學]
+categories: [教學, 程式]
 tags: [Node.js, Discord.js]
 ---
 

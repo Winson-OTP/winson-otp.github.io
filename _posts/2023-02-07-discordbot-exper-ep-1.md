@@ -2,7 +2,7 @@
 title: Discord 社交軟體機器人市場分析 | 各種類型分析、推薦延伸功能
 author: winsonotp
 date: 2023-02-07 22:55:00 +0800
-categories: [教學]
+categories: [教學, 程式]
 tags: [Discord.js, Discord.py, Discord]
 ---
 
