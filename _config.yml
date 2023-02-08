@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   一個簡單的部落格，含括程式設計、學習筆記等內容
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://winson-otp.github.io/'
 
 github:
   username: Winson-OTP             # change to your github username
