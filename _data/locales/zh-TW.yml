@@ -4,14 +4,14 @@
 
 layout:
   post: 文章
-  category: 分類
+  category: 類別
   tag: 標籤
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: 首頁
-  categories: 分類
+  categories: 類別
   tags: 標籤
   archives: 文章
   about: 關於
@@ -37,16 +37,16 @@ copyright:
   # Displayed in the footer
   brief: 保留部分權利。
   verbose: >-
-    除另有說明外，本網站上的博客文章均由作者按知識共享名4.0國際 (CC BY 4.0) 許可協議進行授權。
+    除另有說明外，本網站上的文章均由作者按知識共享名4.0國際 (CC BY 4.0) 許可協議進行授權。
 
 meta: 本站由 :PLATFORM 生成，採用 :THEME 主題。
 
 not_found:
-  statment: 抱歉，我們使用了錯誤的URL，或者指向了不存在的內容。
+  statment: 抱歉，我們引導您前往了錯誤的URL，或者指向了不存在的內容。
 
 notification:
-  update_found: 發現新版本的內容。
-  update: 更新
+  update_found: 網頁已有新的版本可進行檢視，請重新整理。
+  update: 重新整理
 
 # ----- Posts related labels -----
 
