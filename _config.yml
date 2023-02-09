@@ -54,7 +54,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: G-80MBX37323  # fill in your Google Analytics ID
+  id:   # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -112,7 +112,7 @@ assets:
     enabled:      # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: production         # [development|production]
+    env:          # [development|production]
 
 pwa:
   enabled: true   # the option for PWA feature
