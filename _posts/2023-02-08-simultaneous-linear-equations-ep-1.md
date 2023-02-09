@@ -3,7 +3,7 @@ title: 二元一次聯立方程式 | 七下數學 | 認識畫圖法 (上)
 author: winsonotp
 date: 2023-02-08 11:21:00 +0800
 categories: [教學, 課業]
-tags: [Math],
+tags: [Math]
 math: true
 ---
 
