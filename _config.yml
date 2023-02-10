@@ -19,12 +19,12 @@ timezone: Asia/Taipei
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: OTP Blog                         # the main title
+title: OTP Blog | 探索知識無限，享受一站式學習體驗。                         # the main title
 
-tagline: 一個包括各種內容的部落格   # it will display as the sub-title
+tagline: 包括多元領域知識的部落格   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  一個簡單的部落格，含括程式設計、學習筆記等內容
+  OTP Blog是一個涵蓋多元領域知識的部落格，從課業、程式、網頁、通訊等領域提供寶貴的資源與技巧，讓您在這裡獲得無限的知識與體驗。我們致力於為每一位讀者提供最專業、最深入、最實用的技術文張，邀請您一起探索知識無限的世界。
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://winson-otp.github.io/'
@@ -38,7 +38,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Winson
+  name: OTP
   email: chang.winson.055092@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
