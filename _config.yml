@@ -83,7 +83,7 @@ theme_mode: dark  # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortFlat&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Wink&eyebrowType=UpDown&mouthType=Smile&skinColor=Light'
+avatar: 'common/avatar.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
