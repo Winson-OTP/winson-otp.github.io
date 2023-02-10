@@ -14,6 +14,10 @@
   icon: 'fas fa-rss'
   noblank: true
 
+- type: sitemap
+  icon: 'fa-solid fa-sitemap'
+  noblank: true
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
