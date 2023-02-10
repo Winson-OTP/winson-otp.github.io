@@ -53,7 +53,7 @@
   {%- unless page.layout == "home" -%}
     {{ page.title | append: " | "}}
   {%- endunless -%}
-    {{ site.title }}
+    {{ site.displaytitle }}
   </title>
 
   {% include favicons.html %}

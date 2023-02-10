@@ -19,9 +19,9 @@ timezone: Asia/Taipei
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: OTP Blog | 探索知識無限，享受一站式學習體驗。                         # the main title
+title: OTP Blog                         # the main title
 
-displaytitle: OTP Blog
+displaytitle: OTP Blog | 探索知識無限，享受一站式學習體驗
 
 tagline: 包括多元領域知識的部落格   # it will display as the sub-title
 
