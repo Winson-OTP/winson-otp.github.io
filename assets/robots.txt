@@ -1,6 +1,8 @@
 ---
 permalink: /robots.txt
 # The robots rules
+sitemap:
+  exclude: 'yes'
 ---
 
 User-agent: *

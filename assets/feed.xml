@@ -1,6 +1,8 @@
 ---
 layout: compress
 permalink: /feed.xml
+sitemap:
+  exclude: 'yes'
 # Atom Feed, reference: https://validator.w3.org/feed/docs/atom.html
 ---
 
