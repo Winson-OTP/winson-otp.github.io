@@ -21,6 +21,8 @@ timezone: Asia/Taipei
 
 title: OTP Blog | 探索知識無限，享受一站式學習體驗。                         # the main title
 
+displaytitle: OTP Blog
+
 tagline: 包括多元領域知識的部落格   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
