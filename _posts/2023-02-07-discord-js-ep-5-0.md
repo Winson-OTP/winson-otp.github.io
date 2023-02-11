@@ -13,8 +13,10 @@ tags: [Node.js, Discord.js]
 
 * bot-info
 查看機器人的相關資料及資訊
+
 * user-info
 查看指定使用者的資訊
+
 * server-info
 查看伺服器的資訊
 
@@ -36,9 +38,11 @@ tags: [Node.js, Discord.js]
 ### bot-info
 > 文章標題：使用 Discord.js v14 開發全能Discord機器人 | Ep.5.1 關於指令「info」－機器人資訊
 > 文章連結：https://hackmd.io/@winsonOTP/discord-js-v14-ep5-1
+
 ### user-info
 > 文章標題：使用 Discord.js v14 開發全能Discord機器人 | Ep.5.2 關於指令「info」－使用者資訊
 > 文章連結：https://hackmd.io/@winsonOTP/discord-js-v14-ep5-2
+
 ### server-info
 > 文章標題：文章即將完成，請耐心等候！
 > 文章連結：文章即將完成，請耐心等候！
@@ -51,7 +55,8 @@ tags: [Node.js, Discord.js]
 由於前篇文章註冊ping指令的部分以及官方範例講解已經詳細解釋註冊指令的程式，因此在此不會對程式碼多做闡述
 
 在註冊程式碼的程式中對於 `commands` 陣列中加上三個新的物件，`name` 是指令名稱，`decription` 請自行設置說明文字
-```javascript=2
+
+```javascript
 ......前段省略
 const commands = [
   {
