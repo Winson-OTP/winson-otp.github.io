@@ -44,8 +44,8 @@ tags: [Node.js, Discord.js]
 > 文章連結：https://hackmd.io/@winsonOTP/discord-js-v14-ep5-2
 
 ### server-info
-> 文章標題：文章即將完成，請耐心等候！
-> 文章連結：文章即將完成，請耐心等候！
+> 文章標題：使用 Discord.js v14 開發全能Discord機器人 | Ep.5.3 關於指令「info」－伺服器資訊
+> 文章連結：https://hackmd.io/@winsonOTP/discord-js-v14-ep5-3
 
 ## 註冊指令
 在此將會先帶著各位註冊這三個指令，方便接下來的文章進行：
