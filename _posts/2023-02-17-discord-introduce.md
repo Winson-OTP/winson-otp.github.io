@@ -20,7 +20,7 @@ Discord 是一個社群平台，有著各種多樣化的功能，帶給您前所
 
 #### 社群互動架構
 
-下圖是用於舉例的 [BotDesign | 程式討論群](https://discord.gg/JgnntWRpnH) 的頻道欄位：
+下圖是用於舉例的 [BotDesign 程式討論群](https://discord.gg/JgnntWRpnH) 的頻道欄位：
 
 ![](https://i.imgur.com/af6frL1.png)
 
@@ -36,7 +36,7 @@ Discord 是一個社群平台，有著各種多樣化的功能，帶給您前所
 
 #### 社群成員管理
 
-下圖是用於舉例的 [BotDesign | 程式討論群](https://discord.gg/JgnntWRpnH) 的部分身分組欄位：
+下圖是用於舉例的 [BotDesign 程式討論群](https://discord.gg/JgnntWRpnH) 的部分身分組欄位：
 
 ![](https://i.imgur.com/4C5523f.png)
 
