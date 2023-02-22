@@ -73,6 +73,7 @@ tags: [Python, JavaScript]
 本系列所使用的環境如下：
 - 作業系統：Windows 10
 - 程式編輯器：[Visual Studio Code](https://code.visualstudio.com/)
+- 執行環境：[Node.js](https://nodejs.org/zh-tw/download/)
 - 網頁測試瀏覽器：[Chrome](https://www.google.com/intl/zh-TW/chrome/)
 
 ## 結語
