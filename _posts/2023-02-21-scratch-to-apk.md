@@ -3,7 +3,7 @@ title: 用 Scratch 製作應用程式？帶您將 Scratch 3.0 專案轉換為 ap
 author: winsonotp
 date: 2023-02-21 14:18:30 +0800
 categories: [教學, 程式]
-tags: [Scratch]
+tags: [Scratch, HTML, APK]
 ---
 
 > 我們總是會在應用程式商店看到各式各樣、玲瑯滿目的應用程式(APP)，大部分的APP是通過繁複的程式語言來打造。但是，簡單而易懂的Scratch竟然也能製作APP？！筆者將帶您將 Scratch 的 sb3 檔案，轉換為 Android 的 apk 安裝檔案。
