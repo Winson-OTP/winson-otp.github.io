@@ -52,7 +52,7 @@ tags: [Python, JavaScript]
 ```python
 print('輸出內容')
 print(123)
-print(true)
+print(True)
 ```
 
 而在 JavaScript 中的輸出會使用到 `console` 這個語法，而其中最常用於除錯或基本輸出的便是 `console.log()` 這個函式。而這個函式與 `print()` 相同，括號內填入的是輸出的內容。接下來讓我們來實際操作吧！
