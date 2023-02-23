@@ -116,7 +116,7 @@ Python中，定義變數僅需要使用 `變數名稱 = 變數資料` 的方式�
 x = 123
 y = 'I am a string.'
 z = "I am a string too."
-n = alse
+n = False
 ```
 
 而在JavaScript中，我們有三種方式能夠定義變數。
