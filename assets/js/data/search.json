@@ -1,6 +1,8 @@
 ---
 layout: compress
 swcache: true
+sitemap:
+  exclude: 'yes'
 ---
 
 [

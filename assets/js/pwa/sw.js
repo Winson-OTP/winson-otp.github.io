@@ -2,6 +2,8 @@
 layout: compress
 permalink: '/sw.js'
 # PWA service worker
+sitemap:
+  exclude: 'yes'
 ---
 
 self.importScripts('{{ "/assets/js/data/swcache.js" | relative_url }}');

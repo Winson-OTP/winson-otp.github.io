@@ -1,6 +1,8 @@
 ---
 layout: compress
 permalink: '/app.js'
+sitemap:
+  exclude: 'yes'
 ---
 
 const $notification = $('#notification');

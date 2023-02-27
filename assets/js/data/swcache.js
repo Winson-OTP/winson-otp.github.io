@@ -2,6 +2,8 @@
 layout: compress
 
 # The list to be cached by PWA
+sitemap:
+  exclude: 'yes'
 ---
 
 const resource = [

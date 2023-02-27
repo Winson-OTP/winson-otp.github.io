@@ -1,6 +1,8 @@
 ---
 layout: compress
 permalink: '/unregister.js'
+sitemap:
+  exclude: 'yes'
 ---
 
 if ('serviceWorker' in navigator) {
