@@ -1,5 +1,5 @@
 ---
-title: 站在 Python 的肩膀上開啟 JavaScript 的大門，用 Py 角度學 JS | Ep. 5 迴圈與判斷式
+title: 14 款能與 ChatGPT 遊玩的互動小遊戲，打發孤單時光！
 author: winsonotp
 date: 2023-02-28 16:07:30 +0800
 categories: [推薦, AI工具]
