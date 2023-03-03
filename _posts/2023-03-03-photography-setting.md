@@ -1,5 +1,5 @@
 ---
-title: ChatGPT 大解密：帶您探討機器學習背後的秘密以及利用與發展
+title: 相機設定霧煞煞？學習常見設定與功能，捕捉珍貴時刻輕鬆無負擔！
 author: winsonotp
 date: 2023-03-03 23:31:30 +0800
 categories: [教學, 攝影]
