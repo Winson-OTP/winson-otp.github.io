@@ -54,12 +54,13 @@ BotDesign提供了三種分類、十四種程式語言的討論專屬頻道，�
 3. 不定期的抽獎，讓您的生活驚喜連連
 
 > 接著， BotDesign 頻繁舉辦抽獎活動，讓使用者可以免費獲得各種遊戲序號、軟體序號等禮品，使社群活躍度大大提升。
-> 
+
 ![](https://i.imgur.com/9HS0AiT.png)
 
 ![](https://i.imgur.com/ZnZCJUG.png)
 
 4. 蛋機器人 Beta：創新的功能，極致的體驗
+
 > 最後，BotDesign 的創辦人還自製了一款機器人「蛋機器人 Beta」，具有多種實用功能，讓使用者可以更好地體驗 Discord 的便利性和樂趣。
 
 ![](https://i.imgur.com/OVlBnnY.png)
