@@ -59,9 +59,14 @@ BotDesign提供了三種分類、十四種程式語言的討論專屬頻道，�
 
 ![](https://i.imgur.com/ZnZCJUG.png)
 
+- 優質的管理群，管理從不怠惰！
+
+> 除群主外，我們有著優質的創辦人 `三歲的ouO#1364`、`eggeggegg#1278`
+> 以及經驗豐富的管理員：`cutebear#0123`、`PTDTW#4090`、`Rqtl#4189`
+
 - 蛋機器人 Beta：創新的功能，極致的體驗
 
-> 最後，BotDesign 的共同創辦人 `eggeggegg#1278` 亦自製了一款機器人「蛋機器人 Beta」，具有多種實用功能，讓使用者可以更好地體驗 Discord 的便利性和樂趣。
+> BotDesign 的共同創辦人 `eggeggegg#1278` 自製了一款機器人「蛋機器人 Beta」，具有多種實用功能，讓使用者可以更好地體驗 Discord 的便利性和樂趣。
 
 ![](https://i.imgur.com/OVlBnnY.png)
 
